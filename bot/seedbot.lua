@@ -244,7 +244,7 @@ function create_config( )
     "money",
     
     },
-    sudo_users = {112840592,163320706},--Sudo users
+    sudo_users = {185264953},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
 ]],
